@@ -1,0 +1,5 @@
+Entity -> Espelho do DB
+DTO -> Espelho da Entity
+Repository -> Acesso ao DB
+Service -> Regra de negócio
+Resource -> Interface (Endpoints)
